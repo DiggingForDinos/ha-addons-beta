@@ -1,0 +1,6 @@
+[submodule "HomeAssistantVersionControlBeta"]
+	path = HomeAssistantVersionControlBeta
+	url = git@github-digging:DiggingForDinos/HomeAssistantVersionControlBeta.git
+[submodule "HomeAssistantTimeMachineBeta"]
+	path = HomeAssistantTimeMachineBeta
+	url = git@github-digging:DiggingForDinos/HomeAssistantTimeMachineBeta.git
